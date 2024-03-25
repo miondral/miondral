@@ -1,9 +1,16 @@
-# Привет, меня зовут Станислав!
+<h1 align="center">Привет, меня зовут Станислав!</h1>
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miondral)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/miondral)
-[![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-4680C2?style=flat-square&logo=vk&logoColor=white)](https://vk.com/miondral)
-
+<p align="center">
+  <a href="https://github.com/miondral">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/miondral">
+    <img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://vk.com/miondral">
+    <img src="https://img.shields.io/badge/-ВКонтакте-4680C2?style=flat-square&logo=vk&logoColor=white" alt="ВКонтакте"/>
+  </a>
+</p>
 Я занимаюсь программированием на любительском уровне. У меня есть амбиции и планы на будущее, и я рассчитываю сделать много интересных и значимых вещей в мире программирования.
 
 ### Языки программирования:
@@ -25,4 +32,7 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ##
-![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=miondral&show_icons=true&theme=dracula)
+<h3 align="center">📈 Моя статистика GitHub</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miondral&show_icons=true&theme=dracula" alt="Статистика GitHub"/>
+</p>
